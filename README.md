@@ -80,7 +80,7 @@ endmodule
 
 ### Waveform
 
-![D Flip-Flop Waveform](D_FlipFlop/waveform.png)
+![D Flip-Flop Waveform](d_ff/d_ff_waveform.png)
 
 ### Waveform Analysis
 
@@ -166,7 +166,7 @@ endmodule
 
 ### Waveform
 
-![JK Flip-Flop Waveform](JK_FlipFlop/waveform.png)
+![JK Flip-Flop Waveform](jk_ff/jk_ff_waveform.png)
 
 ### Waveform Analysis
 
@@ -245,7 +245,7 @@ endmodule
 
 ### Waveform
 
-![T Flip-Flop Waveform](T_FlipFlop/waveform.png)
+![T Flip-Flop Waveform](t_ff/t_ff_waveform.png)
 
 ### Waveform Analysis
 
